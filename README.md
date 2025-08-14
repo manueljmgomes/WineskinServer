@@ -3,12 +3,6 @@ Unlike the original [Wineskin Project](https://web.archive.org/web/2014121808102
 
 <br>
 
-## Want to help support this project?
-[![ko-fi](https://img.shields.io/badge/kofi-Donate-blue?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/gcenx)
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal)](https://www.paypal.com/paypalme/gcenx)
-
-<br>
-
 ## How to install
 ### [homebrew](https://brew.sh/)
 #### Uninstall the old version
